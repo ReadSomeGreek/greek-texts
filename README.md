@@ -62,15 +62,15 @@ Parsing Code
 Other Markers
 ------------
 
-$chapterAndSection[X.X]$
-$closeParenthesis$
-$colon$
-$comma$
-$openParenthesis$
-$para$
-$period$
-$section[X]$
-$questionMark$
+* $chapterAndSection[X.X]$
+* $closeParenthesis$
+* $colon$
+* $comma$
+* $openParenthesis$
+* $para$
+* $period$
+* $section[X]$
+* $questionMark$
 
 ## Contributions
 
